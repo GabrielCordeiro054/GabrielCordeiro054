@@ -2,7 +2,7 @@
 
 🎓 Estudante de Desenvolvimento de Sistemas
 
-🐍 Atualmente estudando Python
+💻 Estudando linguagens de programação
 
 🏥 Trabalho no almoxarifado do Hospital PUC-Campinas.
 
